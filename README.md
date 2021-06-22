@@ -1,6 +1,6 @@
 #基于ThreeJS + React的中国地图
 
-使用react-three-fiber
+使用react-three-fiber, drei...
 
 # Demo:
 
